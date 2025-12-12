@@ -27,6 +27,7 @@ Made by **URDev**.
 ## **📦 Installation**
 
 ```bash
+git clone https://github.com/URDev4ever/Skullr.git
 chmod +x skullr.sh
 ./skullr.sh install
 ```
