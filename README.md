@@ -1,3 +1,6 @@
+<img width="555" height="536" alt="image (28)" src="https://github.com/user-attachments/assets/5c4cd7b1-31db-4366-99e7-7c16a6f7bdef" />
+
+
 # **SKULLR – Advanced FFUF Web Scanner v3.3**
 
 **SKULLR** is a fully automated wrapper around **FFUF** designed to enhance web content discovery.
