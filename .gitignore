@@ -1,0 +1,27 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Scan outputs (user data)
+scans/
+*.csv
+*.log
+*.md
+!README.md
+!LICENSE
+
+# Temporary files
+tmp/
+temp/
