@@ -1,7 +1,8 @@
-<img width="555" height="536" alt="image (28)" src="https://github.com/user-attachments/assets/5c4cd7b1-31db-4366-99e7-7c16a6f7bdef" />
+<p align="center">
+  <img width="555" height="536" alt="image (28)" src="https://github.com/user-attachments/assets/5c4cd7b1-31db-4366-99e7-7c16a6f7bdef" />
+</p>
 
-
-# **SKULLR – Advanced FFUF Web Scanner v3.3**
+<h1 align="center">SKULLR – Advanced FFUF Web Scanner v3.3</h1>
 
 **SKULLR** is a fully automated wrapper around **FFUF** designed to enhance web content discovery.
 It includes automatic installation, protocol detection, wordlist management, false-positive checks, structured reporting, and subdomain discovery—all in one command.
