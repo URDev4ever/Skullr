@@ -3,6 +3,10 @@
 </p>
 
 <h1 align="center">SKULLR – Advanced FFUF Web Scanner v3.3</h1>
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
 
 **SKULLR** is a fully automated wrapper around **FFUF** designed to enhance web content discovery.
 It includes automatic installation, protocol detection, wordlist management, false-positive checks, structured reporting, and subdomain discovery—all in one command.
