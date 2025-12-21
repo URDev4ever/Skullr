@@ -4,7 +4,7 @@
 
 <h1 align="center">SKULLR – Escáner Web Avanzado con FFUF v3.3</h1>
 <p align="center">
-  🇺🇸 <a href="README.md"><b>Inglés</b></a> |
+  🇺🇸 <a href="README.md"><b>English</b></a> |
   🇪🇸 <a href="README_ES.md">Español</a>
 </p>
 
