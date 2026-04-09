@@ -5,7 +5,7 @@
 <h1 align="center">SKULLR – Escáner Web Avanzado con FFUF v3.3</h1>
 <p align="center">
   🇺🇸 <a href="README.md"><b>English</b></a> |
-  🇪🇸 <a href="README_ES.md">Español</a>
+  🇪🇸 <b>Español</b>
 </p>
 
 **SKULLR** es un *wrapper* totalmente automatizado sobre **FFUF**, diseñado para mejorar el descubrimiento de contenido web.
